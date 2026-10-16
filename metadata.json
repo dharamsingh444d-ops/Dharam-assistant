@@ -1,0 +1,8 @@
+{
+  "name": "Dharam Assistant",
+  "description": "Personal Hindi & English voice assistant for music, rap beats, and daily tasks",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

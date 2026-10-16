@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dharam</string>
+    <string name="assistant_title">Dharam Assistant</string>
+    <string name="assistant_tagline">Namaste Lala! Voice &amp; Rap Studio</string>
+    <string name="mic_listening">Sun raha hoon...</string>
+    <string name="mic_processing">Samajh raha hoon...</string>
+    <string name="mic_tap_to_speak">Mic dabayein ya type karein</string>
+    <string name="query_hint">Poochiye ya command dijiye...</string>
+    <string name="open_youtube_btn">Open YouTube</string>
+    <string name="open_google_btn">Open Google</string>
+    <string name="rap_mode_btn">Rap &amp; Beats</string>
+    <string name="stop_listening">Ruk jao</string>
+</resources>
